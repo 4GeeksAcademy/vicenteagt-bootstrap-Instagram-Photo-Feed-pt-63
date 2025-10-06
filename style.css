@@ -1,0 +1,42 @@
+.barra-Navegacion{
+    background-color: rgb(209, 208, 208);
+}
+
+.branding{
+    text-decoration: none;
+    
+}
+
+.boton-Create{
+    margin-right: -60px;
+}
+
+.boton-Dropdown{
+    border-radius: 10%;
+}
+
+.imagenes-Principlal{
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+    
+}
+
+.primera-Columna-Body{
+    margin-right: -10px;
+}
+
+.columna-1{
+    margin-right: -15px;
+    margin-left: 8px;
+}
+
+.columna-2{
+    margin-right: -12px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+
+}
